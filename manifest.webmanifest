@@ -1,0 +1,17 @@
+{
+  "name": "Kör- och vilotidskontroll",
+  "short_name": "Huginn",
+  "description": "Beslutsstöd för kör- och vilotider. Bearbetas lokalt i webbläsaren.",
+  "start_url": "/huginn-korvila/",
+  "scope": "/huginn-korvila/",
+  "display": "standalone",
+  "lang": "sv",
+  "background_color": "#f0ece2",
+  "theme_color": "#022452",
+  "icons": [
+    { "src": "/huginn-korvila/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/huginn-korvila/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/huginn-korvila/icons/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/huginn-korvila/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

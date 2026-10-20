@@ -1,0 +1,7 @@
+förare;start;slut;aktivitet;fordon
+Maja Exempel;2026-03-01 18:00;2026-03-02 06:00;vila;HUG456
+Maja Exempel;2026-03-02 06:00;2026-03-02 09:00;körning;HUG456
+Maja Exempel;2026-03-02 09:00;2026-03-02 12:00;vila;HUG456
+Maja Exempel;2026-03-02 12:00;2026-03-02 14:00;körning;HUG456
+Maja Exempel;2026-03-02 14:00;2026-03-02 22:00;vila;HUG456
+Maja Exempel;2026-03-02 22:00;2026-03-03 08:00;tillgänglighet;HUG456

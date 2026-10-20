@@ -1,0 +1,7 @@
+Syntetiska exempelfiler. Inga riktiga förare.
+erik-overtradelser.csv — 5 timmars körning utan rast (art. 7, allvarlig).
+maja-delad-vila.csv — delad dygnsvila 3 h + 8 h (art. 8.2, mindre).
+anna-godkand-vecka.csv — en vecka utan konstaterade överträdelser.
+lars-kort-pass.csv — fyra timmars körning utan överträdelse, lastbil HUG321.
+erik-exemplar.ddd — påhittat Gen1-förarkort utan giltig signatur, samma 5-timmarskörning.
+Knappen Visa exempeldata lägger filerna i två påhittade företag: Nordfjäll Åkeri AB och Mälardalens Distribution AB.
